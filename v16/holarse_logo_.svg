@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
+ 
 <svg
    xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -10,11 +10,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="39.750042"
-   height="41.722488"
+   width="42.000000"
+   height="42.000000"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    sodipodi:docname="holarse_logo_.svg"
    style="enable-background:new">
   <defs
@@ -36,15 +36,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.451486"
-     inkscape:cx="-8.7506752"
+     inkscape:cx="-13.631934"
      inkscape:cy="14.368952"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1023"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -59,22 +59,10 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     id="layer1"
-     inkscape:label="HOL RSE"
-     inkscape:groupmode="layer"
-     transform="translate(-91.298125,-19.71084)">
-    <path
-       style="fill:none;fill-opacity:0;stroke:none"
-       d="m 104.85381,35.665371 c -0.41622,-0.08166 -0.82131,-0.226788 -1.52673,-0.546966 -0.80663,-0.36612 -1.30066,-0.494859 -2.49261,-0.649555 -1.615595,-0.209678 -1.93192,-0.310668 -2.131004,-0.680344 -0.132251,-0.245576 -0.0996,-0.794374 0.08776,-1.475218 l 0.140238,-0.509592 -0.108029,-0.88462 c -0.0887,-0.726304 -0.09499,-0.928145 -0.03516,-1.127827 0.08684,-0.289849 0.41558,-0.671868 0.668211,-0.776512 0.175515,-0.0727 0.1885,-0.06658 0.398164,0.187839 0.40933,0.496698 1.8475,1.887768 2.32678,2.250578 1.57841,1.194839 3.4649,2.120229 5.29776,2.598737 l 0.26179,0.06835 -0.0401,0.250602 c -0.0913,0.570919 -0.53815,1.047464 -1.16429,1.241588 -0.40807,0.126516 -1.18349,0.150912 -1.68282,0.05294 l 0,0 z"
-       id="path3009"
-       inkscape:connector-curvature="0"
-       transform="translate(0,20)" />
-  </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
@@ -83,7 +71,7 @@
      transform="translate(-91.298125,0.28916005)">
     <g
        id="g3799"
-       transform="matrix(1.0000527,0,0,1.0000527,-17.987054,-19.651887)"
+       transform="matrix(1.0000527,0,0,1.0000527,-17.02648,-19.477237)"
        style="fill:#e84d3c;fill-opacity:1;stroke-width:5.46713591;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#e84d3c;fill-opacity:1;stroke:none;stroke-width:5.53928995;marker:none;enable-background:accumulate"
@@ -94,7 +82,7 @@
     </g>
     <path
        style="fill:none;fill-opacity:1;stroke:#e84d3c;stroke-width:5.21685457;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 128.43974,-0.28916005 0,41.72249005"
+       d="m 129.40031,-0.11451023 0,41.72249023"
        id="path3797"
        inkscape:connector-curvature="0" />
   </g>
@@ -102,9 +90,10 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="tux"
-     transform="translate(-91.298125,0.28916005)">
+     transform="translate(-91.298125,0.28916005)"
+     style="display:inline">
     <g
-       transform="matrix(0.03596323,0,0,0.03596323,96.868087,7.989858)"
+       transform="matrix(0.03596323,0,0,0.03596323,97.828661,8.1645078)"
        id="layer1-8"
        inkscape:label="Layer 1">
       <path
