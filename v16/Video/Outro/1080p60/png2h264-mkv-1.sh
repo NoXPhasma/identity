@@ -1,4 +1,4 @@
- 
+#!/bin/bash 
 
 # Dateiname
 DEST=video_h264
